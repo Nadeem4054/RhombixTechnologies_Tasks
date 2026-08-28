@@ -1,0 +1,3 @@
+htop	Interactive process viewer (enhanced top)
+journalctl	Views system logs and messages
+dmesg	Shows kernel messages and boot logs
