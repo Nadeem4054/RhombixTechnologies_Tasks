@@ -1,0 +1,10 @@
+pwd	Shows the current working directory path
+ls	Lists files and folders in current directory
+ls -la	Lists all files (including hidden) with detailed information
+cd /path	Changes directory to specified path
+cd ~	Goes to home directory
+cd ..	Goes to parent directory
+mkdir foldername	Creates a new folder
+rmdir foldername	Removes an empty folder
+rm filename	Deletes a file
+rm -r foldername	Removes a folder and its contents  
