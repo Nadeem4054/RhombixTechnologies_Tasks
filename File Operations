@@ -1,0 +1,8 @@
+touch filename	Creates an empty file or updates timestamp
+cp source destination	Copies a file or folder
+mv source destination	Moves or renames a file/folder
+cat filename	Displays file contents
+nano filename	Opens a text editor to edit files
+vim filename	Opens Vi/Vim editor for file editing
+head filename	Shows first 10 lines of a file
+tail filename	Shows last 10 lines of a file
