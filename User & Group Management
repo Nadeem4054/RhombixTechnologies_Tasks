@@ -1,0 +1,4 @@
+sudo command	Runs command with administrator privileges
+useradd username	Creates a new user account
+userdel username	Deletes a user account
+passwd username	Changes user password
