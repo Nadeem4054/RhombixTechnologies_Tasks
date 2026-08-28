@@ -1,0 +1,8 @@
+uname -a	Displays system information and kernel version
+df -h	Shows disk space usage in human-readable format
+du -sh foldername	Shows folder size
+free -h	Displays RAM memory usage
+top	Shows running processes and CPU/memory usage
+ps aux	Lists all running processes
+whoami	Shows current logged-in user
+id	Displays user ID and group information
