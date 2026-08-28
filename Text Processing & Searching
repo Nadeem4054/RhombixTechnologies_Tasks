@@ -1,0 +1,5 @@
+grep "text" filename	Searches for text pattern in a file
+grep -r "text" foldername	Recursively searches text in all files
+find . -name filename	Finds files by name in directory
+wc -l filename	Counts lines in a file
+sort filename	Sorts file contents
